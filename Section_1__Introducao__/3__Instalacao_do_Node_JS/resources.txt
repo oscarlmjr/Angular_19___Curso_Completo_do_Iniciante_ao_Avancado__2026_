@@ -1,0 +1,5 @@
+Run JavaScript Everywhere
+https://nodejs.org/pt
+
+nvm-setup.exe
+https://nodejs.org/pt

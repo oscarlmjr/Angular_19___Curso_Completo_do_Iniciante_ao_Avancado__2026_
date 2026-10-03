@@ -1,0 +1,2 @@
+The open source AI code editor
+https://code.visualstudio.com/

@@ -1,0 +1,4 @@
+curso-angular
+https://github.com/cursodsousa/curso-angular/tree/ce04fd566fc7073fbaa1d0b8d13333f0b552ca33
+
+npm install -g @angular/cli@19.0.2

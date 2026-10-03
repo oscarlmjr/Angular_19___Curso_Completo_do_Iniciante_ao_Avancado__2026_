@@ -1,0 +1,5 @@
+nvm
+https://github.com/nvm-windows/nvm
+
+nvm-setup.exe
+https://nodejs.org/pt
